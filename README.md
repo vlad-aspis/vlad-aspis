@@ -1,4 +1,4 @@
-![GitHub-cover](https://github.com/vlad-aspis/vlad-aspis/raw/main/aspis.png)
+
 
 # About Aspis
 
